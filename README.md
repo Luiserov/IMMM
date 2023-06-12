@@ -15,3 +15,6 @@ Después vemos la misma representación, pero ahora con el porcentaje de poblaci
 También hago una matriz de correlación entre las variables para visualizar que variables tienen más correlación con otras. 
 Por último visualizamos una gráfica de distribución. Cada punto representa un municipio. En el eje X vemos que % de la población de ese municipio vive en localidades con <5k habitantes y en el eje Y muestra el % de población >15 años que son analfabetas. Es evidente que las localidades con el 100% de la población en localidades de <5k habitantes, tienen mayores porcentajes de población >15 años que son analfabetas. 
 
+## Conclusión. 
+
+Al final hago un pequeño ejercicio donde comparo algunas entidades con los promedios nacionales. Solamente con propósito de visualización. 
